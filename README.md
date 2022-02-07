@@ -9,7 +9,7 @@
 - 📧 You can send me an email at hello@inidal.dev.
 
 🔗 Portfolio: https://inidal.dev  
-📃 My resume: https://inidal.dev/resume.pdf
+📃 Resume: https://inidal.dev/resume.pdf
 
 ## 💻 Technology Skills
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
