@@ -1,9 +1,9 @@
 ## 👋 Hi there, I’m Nidal.
 
 - 📍 I live in Edmonton, Alberta, 🇨🇦.
-- 👨‍💻 I’m a self-taught Developer & Data Analyst.
-- 🐍 Usually, I’m using and exploring Python and R. And sometimes JavaScript. 
-- 🌱 I’m currently learning Machine Learning.
+- 👨‍💻 I’m a self-taught Developer.
+- 🐍 Usually, I’m using and exploring Python. And sometimes JavaScript. 
+- 🌱 I’m currently learning more about Java on Android.
 - 🎵 In my spare time, I’m writing and mixing music on [YouTube](https://www.youtube.com/Edmyria) and [Bandcamp](https://edmyria.bandcamp.com/).
 - 😊 Fun fact: I used to be in human resource management.
 - 📧 You can send me an email at hello@inidal.dev.
