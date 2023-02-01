@@ -2,8 +2,8 @@
 
 - 📍 I live in Edmonton, Alberta, 🇨🇦.
 - 👨‍💻 I’m a self-taught Software Developer.
-- 🐍 Usually, I’m using and exploring Python. And sometimes JavaScript. 
-- 🌱 I’m currently learning more about Java on Android.
+- 🐍 Usually, I’m using and exploring JavaScript and Python. 
+- 🌱 I’m currently learning more about Rust.
 - 🎵 In my spare time, I’m writing and mixing music on [YouTube](https://www.youtube.com/Edmyria) and [Bandcamp](https://edmyria.bandcamp.com/).
 - 😊 Fun fact: I used to be in human resource management.
 - 📧 You can send me an email at hello@inidal.dev.
