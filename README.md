@@ -1,12 +1,6 @@
 ## 👋 Hi there, I’m Nidal.
 
-- 📍 I live in Edmonton, Alberta, 🇨🇦.
-- 👨‍💻 I’m a self-taught Software Developer.
-- 🐍 Usually, I’m using and exploring JavaScript and Python. 
-- 🌱 I’m currently learning more about Rust.
-- 🎵 In my spare time, I’m writing and mixing music on [YouTube](https://www.youtube.com/Edmyria) and [Bandcamp](https://edmyria.bandcamp.com/).
-- 😊 Fun fact: I used to be in human resource management.
-- 📧 You can send me an email at hello@inidal.dev.
+I am a self-taught software developer based in Edmonton, Alberta, Canada 🇨🇦. My primary focus is on JavaScript and Python, but I am currently expanding my knowledge by learning Rust. In addition to my technical skills, I have a background in human resource management. Outside of work, I enjoy writing and mixing music, which I share on platforms such as [YouTube](https://www.youtube.com/Edmyria) and [Bandcamp](https://edmyria.bandcamp.com/). If you would like to get in touch with me, please feel free to email me at hello@inidal.dev.
 
 🔗 Portfolio: https://inidal.dev  
 📃 Resume: https://inidal.dev/resume.pdf
@@ -17,10 +11,10 @@
 
 ## ⚒️ Projects
 ### [corspat](https://corspat.herokuapp.com/) ([repo](https://github.com/inidal/corspat))
-This is my final project for the CS50's Introduction to Computer Science. Corspat is a dream came true since I’ve always used spreadsheets in order to keep track of the time I spend studying online, but I’ve never came across a platform that can help me manage both the courses and the time spent on every course. So instead of using multiple tools and platforms, I decided to put all of these features in one and a same place, that… I called CORSPAT.
+For my final project in CS50’s Introduction to Computer Science, I created Corspat. This platform was born out of my personal need to track the time I spent studying online courses. I had been using spreadsheets to manage my time, but I found that no existing platform offered a comprehensive solution for managing both courses and time spent on each course. As a result, I decided to create Corspat, a single platform that combines all of these features.
 
 ### [cyclistic bike data analysis](https://inidal.github.io/ggl-data-capstone/) ([repo](https://github.com/inidal/ggl-data-capstone))
-Analyzed +3M rows of data and prepared a report to get insights, find patterns and interpret consumer behavior as a Capstone Project for Google Data Analyst certificate.
+As part of my Capstone Project for the Google Data Analyst Certificate, I analyzed over 3 million rows of data and prepared a comprehensive report. Through this analysis, I was able to gain valuable insights, identify patterns, and interpret consumer behavior.
 
 ### [laby](https://discord.gg/7fxhVstURu) ([repo](https://github.com/inidal/laby-bot))
-Developed a helper bot that executes simple commands such as: weather, imdb, translate, ping and more per user’s request.
+I developed a helper bot that can execute a variety of simple commands upon user request. These commands include weather updates, IMDb queries, translation services, ping tests, and more.
