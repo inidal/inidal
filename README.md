@@ -48,7 +48,11 @@ I am a self-taught software developer based in Edmonton, Alberta, Canada 🇨�
 ![+](https://img.shields.io/badge/+-000000?style=for-the-badge&logo=+&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## ⚒️ Projects
+## 🤝 Volunteering
+### [Nasqueron](https://devcentral.nasqueron.org/) ([repo](https://github.com/nasqueron))
+I joined Nasqueron due to its positive culture and community. The organization fosters a highly collaborative environment where communication flows freely, and members readily provide mentorship. Furthermore, Nasqueron's well-organized projects and focus on simplifying software deployment and management align with my interests and goals as a developer. Overall, I appreciate the supportive and inclusive atmosphere that Nasqueron offers, which enables me to contribute to the development and improvement of open-source software.
+
+## ⚒️ Personal Projects
 ### [corspat](https://corspat.herokuapp.com/) ([repo](https://github.com/inidal/corspat))
 For my final project in CS50’s Introduction to Computer Science, I created Corspat. This platform was born out of my personal need to track the time I spent studying online courses. I had been using spreadsheets to manage my time, but I found that no existing platform offered a comprehensive solution for managing both courses and time spent on each course. As a result, I decided to create Corspat, a single platform that combines all of these features.
 
