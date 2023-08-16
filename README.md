@@ -2,6 +2,7 @@
 
 I am a self-taught software developer based in Edmonton, Alberta, Canada 🇨🇦. My primary focus is on JavaScript and Python, but I am currently expanding my knowledge by learning Rust. In addition to my technical skills, I have a background in human resource management. Outside of work, I enjoy writing and mixing music, which I share on platforms such as [YouTube](https://www.youtube.com/Edmyria) and [Bandcamp](https://edmyria.bandcamp.com/). If you would like to get in touch with me, please feel free to email me at hello@inidal.dev.
 
+✍🏻 Blog: https://blog.inidal.dev
 🔗 Portfolio: https://inidal.dev  
 📃 Resume: https://inidal.dev/resume.pdf
 
