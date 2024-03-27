@@ -35,20 +35,15 @@ Feel free to reach out to me at hello@inidal.dev or connect with me on [LinkedIn
 
 ## 🛠️ Explored Tools and Technologies
 
-### Programming Languages:
-- JavaScript, Python, Rust
-
-### Frameworks and Libraries:
-- Django, Flask, Bootstrap
-
-### Databases:
-- PostgreSQL, SQLite
-
-### Tools:
-- Git, Docker, AWS, Heroku
-
-### IDEs:
-- Visual Studio Code, JetBrains IDEs
+- **Programming Languages:** JavaScript, Python, Rust, Java, C
+- **Front-End:** Vue.js, React, Bootstrap, Foundation, AJAX, HTML, CSS (SASS/SCSS)
+- **Back-End:** Node.js, Express.js, RESTful web services, JSON, XML
+- **Database:** PostgreSQL (SQL), MongoDB (NoSQL)
+- **AI:** ChatGPT, LLaMA 2, Gemini
+- **IDE:** Visual Studio Code, Android Studio, JetBrains IDEs
+- **Tooling:** Git (GitLab, GitHub), Docker, Nginx, Bash
+- **OS:** Linux (Debian, Ubuntu), Windows, macOS
+- **DevOps:** cPanel, Amazon Web Services (EC2, RDS), Heroku
 
 ## 🤝 Volunteering
 
