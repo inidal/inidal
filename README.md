@@ -40,28 +40,19 @@ Feel free to reach out to me at hello@inidal.dev or connect with me on [LinkedIn
 ## 🛠️ Explored Tools and Technologies
 
 ### Programming Languages:
-- JavaScript
-- Python
-- Rust
+- JavaScript, Python, Rust
 
 ### Frameworks and Libraries:
-- Django
-- Flask
-- Bootstrap
+- Django, Flask, Bootstrap
 
 ### Databases:
-- PostgreSQL
-- SQLite
+- PostgreSQL, SQLite
 
 ### Tools:
-- Git
-- Docker
-- AWS
-- Heroku
+- Git, Docker, AWS, Heroku
 
 ### IDEs:
-- Visual Studio Code
-- PyCharm
+- Visual Studio Code, JetBrains IDEs
 
 ## 🤝 Volunteering
 
