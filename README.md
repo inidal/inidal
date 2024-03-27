@@ -1,9 +1,5 @@
 ## 👋 Hi there, I’m Nidal.
 
-I'm a self-taught software developer with a passion for JavaScript, Python, and currently diving into Rust. My journey in tech is fueled by a blend of my technical skills and a background in human resource management, offering a unique perspective on software development.
-
-## 🚀 Professional Journey
-
 ### Founder and Software Architect at [Codrlabs Solutions](https://codrlabs.com)
 
 At Codrlabs Solutions, I'm not just the founder; I'm a visionary, a problem-solver, and a technologist. My journey began with a simple idea: to use technology to make life easier for businesses and individuals alike. Over the years, I've led our team to create innovative software solutions that address real-world challenges, from web and mobile app development to data analytics.
